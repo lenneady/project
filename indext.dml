@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>karla</title>
+        <link rel="stylesheet" href="assets/style.css">
+    </head>
+    <body>
+        <h1>
+            KARLA LUNA 
+            <img  style="width:50%; height: 50%;" src="https://i.insider.com/5e6a114b235c1844af18ec92?width=700">
+        </h1>
+        <p>Hello my name is karla as you can see I like bald cats they facinate me and I want to own plenty of bald cats when I get older. </p>
+        <h3 style="width:50%;">Hobbys</h3>
+        <ol>
+            <li id="main-campus">listening to music</li>
+            <li class="regional-campus">sb</li>
+            <li class="regional-campus">reading</li>
+            <li class="regional-campus">plating with my dog</li>
+            <li class="regional-campus">eating</li>
+            <li class="regional-campus">looking up bald cats</li>
+        </ol>
+        <h3>BALD CATS</h3>
+        <p id="band-info">Did you know bald cats are more likely to look grumpy then other cats.</p>
+        <ol>
+            <li id="main-campus"><a href="https://images.app.goo.gl/TBAGy6CNLcpAMcKM9">bald cat</a></li>
+            <li class="regional-campus">
+            <li class="regional-campus">aye man</li>
+            <li class="regional-campus">aye man</li>
+            <li class="regional-campus">aye man</li>
+            <li class="regional-campus">aye man</li>
+        </ol>
+    </body>
+</html>
